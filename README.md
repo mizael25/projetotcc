@@ -6,4 +6,4 @@ O aplicativo Playfoot é uma aplicação criada para gerenciar suas partidas de 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="500" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FdIY4DPZ8BXqT7TscRBKPb0%2FGerenciar-o-Futebol&chrome=DOCUMENTATION" allowfullscreen></iframe>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FY8SGE7sa2NEZn4IkwnQ4KU%2FPartidas&chrome=DOCUMENTATION" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="500" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FY8SGE7sa2NEZn4IkwnQ4KU%2FPartidas&chrome=DOCUMENTATION" allowfullscreen></iframe>
