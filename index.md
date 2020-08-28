@@ -1,35 +1,12 @@
-## Welcome to GitHub Pages
+## Bem vindo ao meu projeto TCC
 
-Meu projeto TCC
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Playfoot
 
-```markdown
-Syntax highlighted code block
+O aplicativo Playfoot é uma aplicação criada para gerenciar suas partidas de futebol, seja em qualquer lugar, na rua, quadra, campo, areia e sintético.
+A ideia central é permitir o usuário montar ou sortear os times para aquela partida de futebol, marcar tempo, gols, o desempenho dos atletas e permitir o compartilhamentos em Redes Sociais, com a possibilidade de fazer convites para a partida utilizando as contas das Redes sociais.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mizael25/projetotcc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
